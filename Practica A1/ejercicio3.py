@@ -1,4 +1,5 @@
-numero= int(input("pon un numero: "))
+#numero= int(input("pon un numero: "))
+numero= 7
 
 if numero % 2 == 0:
     print(numero," es par")
